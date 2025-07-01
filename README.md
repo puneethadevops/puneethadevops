@@ -1,17 +1,12 @@
-Here is your updated **GitHub profile-style README** tailored to *Puneetha Kunkatla* using your resume details and inspired by your provided format:
 
----
 
 <h1 align="center">Hi ✋, I'm Puneetha Kunkatla</h1>  
-<h3 align="center">🚀 DevOps Engineer | Cloud Infrastructure & Automation Specialist</h3>
+<h3 align="center"> DevOps Engineer | Cloud Infrastructure & Automation Specialist</h3>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Profile_Views-102,345-success?style=for-the-badge&logo=github" />
-</p>
 
 ---
 
-## 🚀 What I Do
+##  What I Do
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="150"/>
@@ -19,18 +14,18 @@ Here is your updated **GitHub profile-style README** tailored to *Puneetha Kunka
 
 Cloud-native DevOps Engineer with a passion for automation, scalable infrastructure, and production-grade Kubernetes:
 
-* ⚙️ Kubernetes (EKS), Docker, Helm, Terraform, CloudFormation
-* ☁️ Cloud: AWS (IAM, EC2, S3, Route53, VPC, RDS), Azure
-* 🛠 Infra as Code: Ansible, Terraform, CloudFormation
-* 🔄 CI/CD: Jenkins, GitHub Actions, Maven, Gradle
-* 🔍 Observability: Prometheus, Grafana, CloudWatch, Splunk, Nagios
-* 🔐 Security: RBAC, Network Policies, IAM, Secrets Management
-* 💬 Streaming & Messaging: Apache Kafka
-* 🧠 Scripting: Python, Bash, Groovy, SQL
+*  Kubernetes (EKS), Docker, Helm, Terraform, CloudFormation
+*  Cloud: AWS (IAM, EC2, S3, Route53, VPC, RDS), Azure
+*  Infra as Code: Ansible, Terraform, CloudFormation
+*  CI/CD: Jenkins, GitHub Actions, Maven, Gradle
+*  Observability: Prometheus, Grafana, CloudWatch, Splunk, Nagios
+*  Security: RBAC, Network Policies, IAM, Secrets Management
+*  Streaming & Messaging: Apache Kafka
+*  Scripting: Python, Bash, Groovy, SQL
 
 ---
 
-## 🧠 Tech Stack
+##  Tech Stack
 
 <p align="center"
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" />
@@ -44,30 +39,19 @@ Cloud-native DevOps Engineer with a passion for automation, scalable infrastruct
 
 ---
 
-## 🛠 Tools I Love
+##  Tools I Love
 
-* 🧪 **Jenkins + GitHub Actions** for automated CI/CD pipelines
-* 📦 **Docker + Kubernetes** for scalable microservices
-* 📈 **Prometheus + Grafana** for full observability
-* 🔐 **RBAC + Network Policies** for secure clusters
-* ☁️ **CloudFormation + Terraform** for complete infra automation
-* 🧪 **Splunk + CloudWatch** for proactive monitoring
-
+*  **Jenkins + GitHub Actions** for automated CI/CD pipelines
+*  **Docker + Kubernetes** for scalable microservices
+*  **Prometheus + Grafana** for full observability
+*  **RBAC + Network Policies** for secure clusters
+*  **CloudFormation + Terraform** for complete infra automation
+*  **Splunk + CloudWatch** for proactive monitoring
 ---
 
-## 😎 Fun Facts
+##  Work Experience
 
-* 🚀 Migrated legacy systems to Kubernetes, cutting downtime by **75%**
-* 🔐 Built fully automated EKS clusters with zero downtime upgrades
-* ⚙️ Published CI/CD libraries to help Dev teams scale faster
-* 📚 Passionate about documentation, DevOps culture, and mentoring
-* 🎯 I believe **automation is the backbone of DevOps success**
-
----
-
-## 💼 Work Experience
-
-| 🏢 Company                   | 👨‍💼 Role               | 🗓️ Duration        | 🌟 Highlights                |
+|    Company                   |   Role                   |  Duration           |    Highlights                |
 | ---------------------------- | ------------------------ | ------------------- | ---------------------------- |
 | **Amazon**                   | Cloud DevOps Engineer    | Sep 2023 – Jan 2025 | EKS, Helm, Grafana           |
 | **AgFirst Farm Credit Bank** | DevOps Engineer          | Oct 2022 – Sep 2023 | CI/CD, Kafka, CloudFormation |
@@ -76,7 +60,7 @@ Cloud-native DevOps Engineer with a passion for automation, scalable infrastruct
 
 ---
 
-## 📈 Contribution Graph
+##  Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=puneethadevops&theme=react-dark&hide_border=true&area=true" />
@@ -84,7 +68,7 @@ Cloud-native DevOps Engineer with a passion for automation, scalable infrastruct
 
 ---
 
-## 📊 GitHub Stats (Real-Time)
+##  GitHub Stats (Real-Time)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=puneethadevops&theme=gruvbox&show_icons=true&count_private=true&hide_border=true&custom_title=Puneetha's GitHub Stats" height="160"/>
